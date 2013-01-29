@@ -208,7 +208,7 @@ function googleTranslateElementInit() {
                 <option value="vi" id="yat-lang-vi"><label for="yat-lang-vi">vietnamita</label></option>
                 <option value="yi" id="yat-lang-yi"><label for="yat-lang-yi">yiddish</label></option>
             </select>
-            <script type="text/javascript">document.getElementById('yat-lang-<?php echo  $instance['pageLanguage']; ?>').selected = "1"</script>
+
         </p>
        <p>
             <input type="checkbox"
